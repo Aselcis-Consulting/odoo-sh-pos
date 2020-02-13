@@ -1,0 +1,4 @@
+[submodule "Aselcis-Consulting/pos"]
+	path = Aselcis-Consulting/pos
+	url = git@github.com:Aselcis-Consulting/pos.git
+	branch = 13.0
